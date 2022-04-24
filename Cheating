@@ -1,0 +1,16 @@
+{
+    "[python]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4  
+      },
+      "python.linting.enabled": false,
+      "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+      },
+      "java.semanticHighlighting.enabled": true,
+      "terminal.integrated.enableMultiLinePasteWarning": false
+      
+}
